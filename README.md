@@ -59,7 +59,6 @@
       <li>Mr.Sudhir Sharma: +91000-xxx-0000</li>
       <li>E-mail:s.s.enterprises@gmail.com</li></ul>
     </div>
-   </footer>    
-
+   </footer>
 </body>
 </html>
