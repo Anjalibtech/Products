@@ -49,7 +49,7 @@
      <img src="Documents" alt="Aqua Fresh Purifier">
      <p>Aqua Fresh-Rs.2500</p>
      <img src="Documents" alt="Aqua Grand+ Purifier">
-     <p>Aqua Grand+-Rs.3500</p>
+     <p>Aqua Grand+-Rs.3500</p></div>
    <footer> 
     <div class="footer-logo">Contact us</div>
     <div class="footer-list">
@@ -58,7 +58,6 @@
       <li>Mr.Sudhir Sharma: +91000-xxx-0000</li>
       <li>E-mail:s.s.enterprises@gmail.com</li></ul>
     </div>
-   </footer>    
-
+   </footer>   
 </body>
 </html>
